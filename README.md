@@ -1,7 +1,7 @@
 <h1 align="center">SIRIKI SAI SIDDHU</h1>
 <h3 align="center">Software Engineer with Knowledge in Embedded systems and testing software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asteriod-destroyer-4&label=Profile%20views&color=0e75b6&style=flat" alt="asteriod-destroyer-4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asteriod-Destroyer-4&label=Profile%20views&color=0e75b6&style=flat" alt="asteriod-destroyer-4" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
