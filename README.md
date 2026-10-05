@@ -109,26 +109,7 @@
 <!-- Animated reel: scrolls continuously, each skill enlarges and shrinks in turn -->
 <img src="assets/skills-reel.svg" width="100%" alt="Skills reel"/>
 
-<br/>
-
-<details>
-<summary><b>View skills by category</b></summary>
-
-<br/>
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,php&perline=5" alt="languages"/>
-
-**Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&perline=6" alt="web"/>
-
-**Data Science & ML**<br/>
-<img src="https://skillicons.dev/icons?i=pandas,sklearn,pytorch,tensorflow&perline=4" alt="ml"/>
-
-**Testing & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=selenium,git,github&perline=3" alt="tools"/>
-
-</details>
+<a href="https://asteriod-destroyer-4.github.io/Asteriod-Destroyer-4/skills.html"><b>🖱️ Open the interactive version (scroll + hover zoom) ➜</b></a>
 
 </div>
 
