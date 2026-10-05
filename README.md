@@ -19,7 +19,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" />
+<!-- PROFILE PICTURE: shows your GitHub avatar now. To use your own photo, upload it to assets/profile.jpg and swap the url below
+     with: https://wsrv.nl/?url=https://raw.githubusercontent.com/Asteriod-Destroyer-4/Asteriod-Destroyer-4/main/assets/profile.jpg&w=240&h=240&fit=cover&mask=circle -->
+<img align="right" width="200" src="https://wsrv.nl/?url=https://github.com/Asteriod-Destroyer-4.png&w=240&h=240&fit=cover&mask=circle" alt="Siriki Sai Siddhu" />
 
 - 🔭 Software Engineer with knowledge in **Embedded Systems** and **Software Testing**
 - 🌱 Exploring **Python, ML/AI, and automation testing**
@@ -104,17 +106,29 @@
 
 <div align="center">
 
-### Languages
+<!-- Animated reel: scrolls continuously, each skill enlarges and shrinks in turn -->
+<img src="assets/skills-reel.svg" width="100%" alt="Skills reel"/>
+
+<br/>
+
+<details>
+<summary><b>View skills by category</b></summary>
+
+<br/>
+
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,php&perline=5" alt="languages"/>
 
-### Web & Backend
+**Web & Backend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&perline=6" alt="web"/>
 
-### Data Science & ML
+**Data Science & ML**<br/>
 <img src="https://skillicons.dev/icons?i=pandas,sklearn,pytorch,tensorflow&perline=4" alt="ml"/>
 
-### Testing & Tools
+**Testing & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=selenium,git,github&perline=3" alt="tools"/>
+
+</details>
 
 </div>
 
